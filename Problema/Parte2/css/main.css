@@ -1,0 +1,8 @@
+/* Agrega aqui tu CSS */
+div{
+	border: solid 2px #eb8459;
+	width: 250px;
+	height: 250px;
+	padding: 10px;
+	margin: 5px;
+}
